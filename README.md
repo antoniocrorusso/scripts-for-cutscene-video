@@ -1,4 +1,5 @@
-# scripst-for-cutscene-video
-Scripsts básicos pro video de Prog II
+# scripts-for-cutscene-video
+Scripts básicos para o vídeo/trabalho de Progamação II - Curso Jogos Digitais/Fatec Carapicuíba.
 
-Nele estão os scrips main, cutscene, gerenciador de cutscene, e os dicionarios das falas.
+Conteúdo:
+scripts main, cutscene, gerenciador de cutscene, e os dicionarios das falas.
